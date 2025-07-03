@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Submit a bug report for CADRE.
 title: ''
 labels: ''
 assignees: ''
@@ -9,6 +9,9 @@ assignees: ''
 
 **Describe the bug**
 A clear and concise description of what the bug is.
+
+**CADRE version**
+Version of CADRE to which this bug report applies.
 
 **To Reproduce**
 Steps to reproduce the behavior:
